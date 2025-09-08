@@ -1,3 +1,7 @@
-# Văn Chương Mạn Đàm's info
+# Văn Chương Mạn Đàm  
 
-funfact: #vaniuemhaanha:(
+**Fun fact:** `#vaniuemhaanha:(`  
+
+## Contributors  
+- **longathelstan**  
+- **toidicakhia**  
