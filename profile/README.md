@@ -3,5 +3,5 @@
 **Fun fact:** `#vaniuemhaanha:(`  
 
 ## Contributors  
-- **longathelstan**  
-- **toidicakhia**  
+- **longathelstan** (main)  
+- **toidicakhia** (performance optimization)  
