@@ -1,6 +1,6 @@
 # Văn Chương Mạn Đàm  
 
-**Fun fact:** `#vaniuemhaanha:(`  
+**Fun fact:** `#thisisa1weekprj:))`  
 
 ## Contributors  
 - **longathelstan** (main)  
